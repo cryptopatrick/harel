@@ -9,6 +9,7 @@ homepage = "https://github.com/cryptopatrick/harel"
 repository = "https://github.com/cryptopatrick/harel"
 readme = "README.md"
 keywords = ["harel", "statecharts", "scxml", "fsm"]
+categories = ["parser-implementations"]
 license = "Unlicense/MIT"
 autotests = false
 
