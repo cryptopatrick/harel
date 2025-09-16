@@ -1,0 +1,13 @@
+target/
+_wb/
+_dev/
+docs-dev/
+
+
+# Files
+.DS_Store
+Cargo.lock
+.claude
+CLAUDE.md
+claude.md
+

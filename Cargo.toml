@@ -1,0 +1,40 @@
+[package]
+name = "harel"
+version = "0.1.0"
+edition = "2024"
+authors = ["cryptopatrick <cryptopatrick@gmail.com>"]
+description = "Harel Statecharts Parser."
+documentation = "https://docs.rs/harel"
+homepage = "https://github.com/cryptopatrick/harel"
+repository = "https://github.com/cryptopatrick/harel"
+readme = "README.md"
+keywords = ["harel", "statecharts", "scxml", "fsm"]
+license = "Unlicense/MIT"
+autotests = false
+
+[lib]
+name = "harel"
+path = "src/lib.rs"
+
+#[bin]
+#name = "harel"
+#path = "src/main.rs"
+
+
+[[test]]
+name = "tests"
+path = "tests/tests.rs"
+
+#[[bench]]
+#name = "bench"
+#path = "tests/bench.rs"
+#
+#[profile.bench]
+#opt-level = 3
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+roxmltree = "0.20.0"
+thiserror = "1.0"
