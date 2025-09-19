@@ -2,7 +2,7 @@
   <br>
   <a href="https://www.cryptopatrick.com/projects/harel">
     <img 
-      src="https://github.com/cryptopatrick/factory/blob/master/img/100days/harel.png" 
+      src="https://github.com/cryptopatrick/factory/blob/master/img/100days/harel_scxml.png" 
       alt="Title" 
       width="200"
     />
