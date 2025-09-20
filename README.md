@@ -147,5 +147,4 @@ Comprehensive documentation is available at [docs.rs/harel](https://docs.rs/hare
 - Best practices for statechart design
 
 ## 🗄 License
-
-Dual-licensed under MIT or the [UNLICENSE](http://unlicense.org).
+This project is licensed under MIT. See [LICENSE](LICENSE) for details.
