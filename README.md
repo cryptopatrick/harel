@@ -26,7 +26,7 @@
     <img src="https://docs.rs/harel/badge.svg" alt="Documentation"/>
   </a>
   <a href="LICENSE" target="_blank">
-    <img src="https://img.shields.io/github/license/cp/harel.svg" alt="GitHub license"/>
+    <img src="https://img.shields.io/github/license/cryptopatrick/harel.svg" alt="GitHub license"/>
   </a>
 </p>
 
