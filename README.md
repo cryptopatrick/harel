@@ -31,11 +31,11 @@
 </p>
 
 <p align="center">
-  <a href="#what-is-harel">What is Harel</a> •
-  <a href="#features">Features</a> •
-  <a href="#how-to-use">How To Use</a> •
-  <a href="#documentation">Documentation</a> •
-  <a href="#license">License</a>
+  <a href="#-what-is-harel">What is Harel</a> •
+  <a href="#-features">Features</a> •
+  <a href="#-how-to-use">How To Use</a> •
+  <a href="#-documentation">Documentation</a> •
+  <a href="#-license">License</a>
 </p>
 
 <!-- TABLE OF CONTENTS -->
@@ -44,11 +44,11 @@
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#what-is-harel"> What is Harel</a></li>
-    <li><a href="#features"> Features</a></li>
-    <li><a href="#how-to-use"> How to Use</a></li>
-    <li><a href="#documentation"> Documentation</a></li>
-    <li><a href="#license">License</a></li>
+    <li><a href="#-what-is-harel"> What is Harel</a></li>
+    <li><a href="#-features"> Features</a></li>
+    <li><a href="#-how-to-use"> How to Use</a></li>
+    <li><a href="#-documentation"> Documentation</a></li>
+    <li><a href="#-license">License</a></li>
   </ol>
 </details>
 
