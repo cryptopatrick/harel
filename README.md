@@ -146,5 +146,16 @@ Comprehensive documentation is available at [docs.rs/harel](https://docs.rs/hare
 - Examples of different statechart patterns
 - Best practices for statechart design
 
+
+## 🖊 Author
+
+<a href="https://x.com/cryptopatrick">CryptoPatrick</a>  
+
+Keybase Verification:  
+https://keybase.io/cryptopatrick/sigs/8epNh5h2FtIX1UNNmf8YQ-k33M8J-Md4LnAN
+
+## 🐣 Support
+Leave a ⭐ if you think this project is cool.  
+
 ## 🗄 License
 This project is licensed under MIT. See [LICENSE](LICENSE) for details.
